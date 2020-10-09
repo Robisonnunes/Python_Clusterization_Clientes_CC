@@ -6,8 +6,8 @@ Identificar e Segmentar os Clientes por meio dos registros de compras com cartã
 
 <img src="https://www.imagemhost.com.br/images/2020/10/09/Cluster.png" alt="Cluster.png" border="0" />
 
-Clusterização feita com o algoritmo Kmeans com análise qualitativa de cada cluster para a tomada de decisão, como output foi gerado um arquivo .csv   
-para a área de negócios, indetificar indiivdualmente cada cliente e seu respectivo cluster, podendo assim aplicar as estratégias para aproveitar cada  
+Clusterização feita com o algoritmo Kmeans com análise qualitativa de cada cluster para a tomada de decisão, como output foi gerado um arquivo .csv
+para a área de negócios, indetificar indiivdualmente cada cliente e seu respectivo cluster, podendo assim aplicar as estratégias para aproveitar cada
 característica do cluster e assim aumentar as vendas por exemplo.
 
 **Técnicas utlizadas:**  
