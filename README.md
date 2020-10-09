@@ -4,6 +4,14 @@
 Problema de Negócio:  
 Identificar e Segmentar os Clientes por meio dos registros de compras com cartão de crédito, com o objetivo de tornar as campanhas de MKT mais efetivas.
 
+<img src="https://www.imagemhost.com.br/images/2020/10/09/Cluster.png" alt="Cluster.png" border="0" />
+
+técnicas utlizadas:  
+Data Wrangling  
+Machine learning  
+Kmeans  
 
 
-linkedln 
+link do vídeo no linkedln
+
+https://www.linkedin.com/feed/update/urn:li:activity:6720454956245098496/
